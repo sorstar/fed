@@ -1,5 +1,5 @@
 # Procesverslag
-**Auteur:** -jouw naam-
+**Auteur:** -Soraya Hammaoui-
 
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
 
@@ -63,10 +63,14 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 **Je opdracht:** -https://shopichigo.com-
 
 **Screenshot(s):**
-![De website bevat vele carrousels](images/carrousel.jpg)
-![Dit product staat in een carrousel](images/product_1.jpg)
-![Als je met je muis over het product hovert, veranderd het plaatje](images/product_2.jpg)
-![Je kunt het product ook in je wenslijst zetten](images/product_3.jpg)
+-De website bevat vele carrousels-
+![](images/carrousel.jpg)
+-Dit product staat in een carrousel-
+![](images/product_1.jpg)
+-Als je met je muis over het product hovert, veranderd het plaatje-
+![](images/product_2.jpg)
+-Je kunt het product ook in je wenslijst zetten-
+![](images/product_3.jpg)
 
 **Breakdown-schets(en):** ![ ik heb dit op papier gedaan.]
 
