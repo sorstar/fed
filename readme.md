@@ -61,6 +61,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 **Je focus:** - Responsive -
 
 **Je opdracht:** -https://shopichigo.com-
+-De reden dat ik deze site gekozen heb (buiten het feit dat ik hier te vaak en te veel m'n geld spendeer.) is omdat het mij uitdagend genoeg leek voor mij. Ik vind frontend hartstikke leuk maar bak er niks van. Vorig jaar hebben we veel gewerkt met flexbox en grid en zag dat het ook vaak voor kwam op deze site. Vandaar mijn keuze.
+Grootste uitdaging voor mij is het aan het praat krijgen van het grid en de hover actions bij de carrousels.-
 
 **Screenshot(s):**
 -De website bevat vele carrousels-
@@ -72,6 +74,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 -Je kunt het product ook in je wenslijst zetten-
 ![](images/product_3.jpg)
 
-**Breakdown-schets(en):** ![ ik heb dit op papier gedaan.]
+**Breakdown-schets(en):** 
+![](images/breakdownschets_1.jpeg)
+![](images/breakdownschets_2.jpeg)
 
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/dummy-image.svg)
