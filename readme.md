@@ -39,6 +39,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ### Stand van zaken
 
 -dit ging goed & dit was lastig-
+-Een begin maken aan de css vond ik wat lastig omdat ik alle content al erin had staan en het niet meer overzichtig was.
+Verder had ik moeite met het maken van het menu, is inmiddels al wel gelukt.  -
 
 **Screenshot(s):**
 
@@ -47,6 +49,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ### Agenda voor meeting
 
 -samen met je groepje opstellen-
+-Grid, carrousel, items(list) naast elkaar plaatsen, tekst verdwenen achter afbeeldingen-
 
 ### Verslag van meeting
 
