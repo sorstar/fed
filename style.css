@@ -1,18 +1,104 @@
 CSS Document
 *, *::after, *::before {
   box-sizing:border-box;  
+  margin: 0;
+  padding: 0;
 }
 
 body{
   font-family:'Lora', serif;
+}
+
+nav{
+  width: 100%;
+  height: 60px;
+  background-color: navajowhite;
+  margin-top: -1vh;
+  margin-left: -1vh;
+  padding:1vh ;
+}
+
+nav img{
+  width: 3.5em;
+  margin-top: -2vh;
+  margin-left: -5vh;
+}
+
+nav ul{
+  float: left;
+}
+
+nav ul li{
+  float: left;
+  list-style: none;
+  position: relative;
+;
 
 }
-/************************/
-/* LAYOUT VAN DE HEADER */
-/************************/
 
-header {
-  /* background-color:rgb(253, 165, 246); */
+nav ul li a{
+  display: block;
+  font-family:'Lora', serif;
+  color: grey;
+  font-size: 14px;
+  padding: 22px 14px;
+  text-decoration: none;
+  text-align: center;
+  margin-top: -2vh;
+  
+}
+
+nav ul li ul{
+  display: none;
+  position: absolute;
+  background-color: navajowhite;
+  padding: 10px;
+  border-radius: 0px 0px 5px 5px; 
+  margin-top: 0.1vh; 
+  
+}
+
+nav ul li:hover ul{
+display: block; 
+}
+
+nav ul li ul li {
+width: 180px;
+border-radius: 4px;  
+}
+
+nav ul li ul li a:hover{
+background-color: rgb(246, 214, 165);   
+ }
+
+.sale{
+  display: inline-block;
+  box-sizing: content-box;
+  background-color: palevioletred;
+  padding: 10px;
+  width: 10%;
+  border-radius: 50%;
+  color: white;
+  text-align: center;
+  vertical-align: middle;
+  display: inline-table;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* header {
+
   display:flex;
   flex-wrap:nowrap;
   justify-content:center; 
@@ -40,11 +126,6 @@ header > a:focus {
 }
 
 
-
-/*************/
-/* navigatie */
-/*************/
-
 header nav {
   background-color:rgb(253, 165, 246);
   flex-grow: 1;
@@ -53,13 +134,10 @@ header nav {
 header nav ul {    
   margin:0; padding:0;
   list-style:none;
-  
-  /* jouw code hier */
   display:flex;
 }
 
 header nav li {
-  /* jouw code hier */
   min-width:5.25em;
   flex-grow:1;
 }
@@ -79,30 +157,28 @@ header nav a {
 
 header nav a.active {
   font-weight:bold;
-  /* de cursor geen handje wordt als je over de active link hovert */
   cursor:default;
 }
 
 header nav a:hover:not(.active) {
-  /* als je over een link in het menu (maar niet de active link) hovert */
   color:white;
 background-color: rgb(238, 116, 228);}
 
 header nav a:focus {
-  /* links in het menu wordt onderstreept als je er met het toetsenbord naar tabt */
   text-decoration:underline;
 }
 
 nav img{
   width: 3em;
-  margin: 0;
+  margin-bottom: -2vh;
 
 }
+
 
 
 main img{
   width: 60vh;;
-}
+} */
 
 h1{
   color:white;
