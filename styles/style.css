@@ -1,5 +1,194 @@
-/* CSS Document */
+CSS Document
 *, *::after, *::before {
   box-sizing:border-box;  
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  font-family:'Lora', serif;
+}
+
+nav{
+  width: 100%;
+  height: 60px;
+  background-color: navajowhite;
+  margin-top: -1vh;
+  margin-left: -1vh;
+  padding:1vh ;
+}
+
+nav img{
+  width: 3.5em;
+  margin-top: -2vh;
+  margin-left: -5vh;
+}
+
+nav ul{
+  float: left;
+}
+
+nav ul li{
+  float: left;
+  list-style: none;
+  position: relative;
+;
+
+}
+
+nav ul li a{
+  display: block;
+  font-family:'Lora', serif;
+  color: grey;
+  font-size: 14px;
+  padding: 22px 14px;
+  text-decoration: none;
+  text-align: center;
+  margin-top: -2vh;
+  
+}
+
+nav ul li ul{
+  display: none;
+  position: absolute;
+  background-color: navajowhite;
+  padding: 10px;
+  border-radius: 0px 0px 5px 5px; 
+  margin-top: 0.1vh; 
+  
+}
+
+nav ul li:hover ul{
+display: block; 
+}
+
+nav ul li ul li {
+width: 180px;
+border-radius: 4px;  
+}
+
+nav ul li ul li a:hover{
+background-color: rgb(246, 214, 165);   
+ }
+
+.sale{
+  display: inline-block;
+  box-sizing: content-box;
+  background-color: palevioletred;
+  padding: 10px;
+  width: 10%;
+  border-radius: 50%;
+  color: white;
+  text-align: center;
+  vertical-align: middle;
+  display: inline-table;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* header {
+
+  display:flex;
+  flex-wrap:nowrap;
+  justify-content:center; 
+}
+
+header > a {
+  display:block;
+  width:7.5em; height:3.5em;
+  line-height:1em;
+  padding:.75em 0 .75em 2.75em;
+  font-weight:bold;
+  color:rgb(253, 165, 246);  
+  text-decoration:none;
+  outline:none;
+}
+
+header > a:hover {
+  padding:.75em 2.75em .75em 0;
+  text-align:right;
+
+}
+
+header > a:focus {
+  text-decoration:underline;
+}
+
+
+header nav {
+  background-color:rgb(253, 165, 246);
+  flex-grow: 1;
+}
+
+header nav ul {    
+  margin:0; padding:0;
+  list-style:none;
+  display:flex;
+}
+
+header nav li {
+  min-width:5.25em;
+  flex-grow:1;
+}
+
+
+
+header nav a {
+  color:white;
+  background-color:rgb(253, 165, 246); 
+  text-decoration:none;
+  outline:none;
+  display:block;
+  line-height:5.5em;
+  margin-top: -0.5em; 
+  text-align:center;
+}
+
+header nav a.active {
+  font-weight:bold;
+  cursor:default;
+}
+
+header nav a:hover:not(.active) {
+  color:white;
+background-color: rgb(238, 116, 228);}
+
+header nav a:focus {
+  text-decoration:underline;
+}
+
+nav img{
+  width: 3em;
+  margin-bottom: -2vh;
+
+}
+
+
+
+main img{
+  width: 60vh;;
+} */
+
+h1{
+  color:white;
+  letter-spacing: 0.2em;
+  font-size: 1.5em;
+  width: 100%;
+  text-align: center;
+  background: linear-gradient(90deg, rgba(69,104,220,1) 9%, 
+  rgba(120,100,203,1) 42%, rgba(145,98,194,1) 63%, 
+  rgba(179,95,182,1) 100%);
+  /* bron: https://cssgradient.io */
 }
 
