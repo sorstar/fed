@@ -34,7 +34,7 @@ Ik ga mij focussen op extra aandacht voor **Surface Plane**
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-(http://www.conangray.com)
+http://www.conangray.com
 #### Screenshot(s) van de eerste pagina (small screen): 
 Homepagina 
  <img src="images/Homepagina_fed.png" width="375px" alt="Hier is de homepagina van de website te zien">
