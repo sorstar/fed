@@ -40,8 +40,8 @@ Homepagina
  <img src="images/Homepagina_fed.png" width="375px" alt="Hier is de homepagina van de website te zien">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
-<img src="images/Shoppagina_fed.png" width="375px" alt="Op deze afbeelding is de merchshop te zien">
+Webshop
+ <img src="images/Shoppagina_fed.png" width="375px" alt="Op deze afbeelding is de merchshop te zien">
  
 </details>
 
