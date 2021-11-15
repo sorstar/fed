@@ -34,14 +34,14 @@ Ik ga mij focussen op extra aandacht voor **Surface Plane**
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-http://www.conangray.com
+https://kookmutsjes.com
 #### Screenshot(s) van de eerste pagina (small screen): 
 Homepagina 
- <img src="images/Homepagina_fed.png" width="375px" alt="Hier is de homepagina van de website te zien">
+ <img src="images/" width="375px" alt="">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 Webshop
- <img src="images/Shoppagina_fed.png" width="375px" alt="Op deze afbeelding is de merchshop te zien">
+<img src="images/" width="375px" alt="">
  
 </details>
 
